@@ -1,3 +1,6 @@
+# Regina Grace Hipolito
+# BSCS 3A
+
 # CSST_104_Advanced-Machine-Learning
 
 ## Course Description: 
