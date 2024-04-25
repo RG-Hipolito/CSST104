@@ -4,7 +4,7 @@
 CSST_104_Advanced-Machine-Learning is designed to provide students with an in-depth understanding of advanced machine learning techniques and their applications. The course explores a variety of algorithms, including regression, classification, unsupervised learning, and neural networks. Students will learn how to evaluate and select models, address ethical considerations, and apply advanced ML methods to real-world problems through case studies and a final project.
 
 #Table of Contents:
-1. [Compilation of Activities](#Compilation-of-Activities)
+1. [Compilation of Activities](#compilation-of-Activities)
 2. [Introduction to Advanced Machine Learning](#introduction-to-advanced-machine-learning)
 3. [Advanced Regression Techniques](#Advanced-Regression-Techniques)
 4. [Classification Algorithms](#Classification-Algorithms)
@@ -27,7 +27,10 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 6. [Exercise 6 - Logistic Regression Model](https://colab.research.google.com/drive/1eTxNCD-xCxSZWWR-oWVLKeDyk7bn72Wz?usp=drive_link)
 7. [Exercise 7 - Linear Regression Model](https://colab.research.google.com/drive/1K-uCAbApurbtTKrpXvygmxY-rRXJf2Bh?usp=drive_link)
 8. [Exercise 8 - Pollution Data Time Series Analysis Using ARIMA](https://colab.research.google.com/drive/1C7dYtpkKR63jorqKxFJEuocDKwieLi3f)
-
+   
+## Midterm
+1. [Midterm Exam](https://colab.research.google.com/drive/1E3icSBk2yxsHjjv79Eu7xe14NKhRzBO_?usp=drive_link)
+   
 # Introduction to Advanced Machine Learning
 Providing an overview of advanced machine learning techniques and their importance in contemporary data science and AI applications. It sets the stage for what students can expect to learn throughout the course.
 
