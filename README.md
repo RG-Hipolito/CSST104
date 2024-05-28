@@ -33,6 +33,9 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
    
 ## Midterm
 1. [Midterm Exam](https://colab.research.google.com/drive/1E3icSBk2yxsHjjv79Eu7xe14NKhRzBO_?usp=drive_link)
+
+## Final
+1. [Final Exam/Project](https://colab.research.google.com/drive/1QjoZJ6yOSeeHazjgqV8miejfLAzlVwlT?usp=sharing)
    
 # Introduction to Advanced Machine Learning
 Providing an overview of advanced machine learning techniques and their importance in contemporary data science and AI applications. It sets the stage for what students can expect to learn throughout the course.
